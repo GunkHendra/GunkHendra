@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
-<h1 align="center">Rahajeng Semeton 👋, I'm Gunk Hendra</h1>
+<h1 align="center">Rahajeng Semeton, I'm Gunk Hendra</h1>
 <h3 align="center">A passionate full-stack developer from another galaxy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunkhendra&label=Profile%20views&color=0e75b6&style=flat" alt="gunkhendra" /> </p>
