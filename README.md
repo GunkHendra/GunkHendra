@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hello World!👋, I'm Gunk Hendra</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
