@@ -1,9 +1,6 @@
-<h4 align="center">I'm Gung Hendra</h1>
-<h4 align="center">A full-stack dev based in Indonesia</h3>
+<p>I'm Gung Hendra, a full-stack dev based in Indonesia</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunkhendra&label=Profile%20views&color=0e75b6&style=flat" alt="gunkhendra" /> </p>
-
-- 💬 Ask me about **Competitive Programming, C, C++, Python**
+- 💬 Ask me about **competitive programming, backend, frontend, data science, or random tech stuff**
 - 📫 How to reach me **krishnamahendrayana07@gmail.com**
 
 <h4 align="left">Connect with me:</h3>
