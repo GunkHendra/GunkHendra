@@ -1,4 +1,4 @@
-<p>I'm Gung Hendra, a full-stack dev based in Indonesia</p>
+<p>Hi I'm a full-stack dev based in Indonesia</p>
 
 - 💬 Ask me about **competitive programming, backend, frontend, data science, or random tech stuff**
 - 📫 How to reach me **krishnamahendrayana07@gmail.com**
